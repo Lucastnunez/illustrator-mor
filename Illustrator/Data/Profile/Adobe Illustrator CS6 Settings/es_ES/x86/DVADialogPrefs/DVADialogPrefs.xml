@@ -1,0 +1,209 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>DialogInfo</key>
+<prop.list>
+<prop.pair>
+<key>ArcSegmentedUI_ArcSegmentedUIDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ArcSegmentedUI_ArcSegmentedUIDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;424&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;211&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>Expand_ObjectExpandOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;Expand_ObjectExpandOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;564&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;190&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_ShearOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_ShearOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;456&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;164&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>LineSegmentTool_LineSegmentToolDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;LineSegmentTool_LineSegmentToolDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;532&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;257&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>Progreso</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;Progreso&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;327&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;287&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>Rasterize_ObjectEffectsSettingsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;Rasterize_ObjectEffectsSettingsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;264&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;151&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>TransformUI_TransformUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;TransformUI_TransformUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;289&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;75&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>VectorizeToolUIWarning_VectorizeToolUIWarningDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;VectorizeToolUIWarning_VectorizeToolUIWarningDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;205&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;277&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>svgFileFormatUI_svgFileFormatUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;svgFileFormatUI_svgFileFormatUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;203&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;39&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>MonitorInfo</key>
+<prop.list>
+<prop.pair>
+<key>Monitor-0</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>1366</int>
+<int type='signed' size='32'>738</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>NumMonitors</key>
+<int type='unsigned' size='32'>1</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+</prop.list>
+</prop.map>

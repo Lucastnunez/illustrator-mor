@@ -1,0 +1,4178 @@
+/Threshold {
+	/DbrushPath {
+		/Save 30
+	}
+}
+/ {
+	/Vectorize {
+		/WriteToSVgFile 0
+	}
+}
+/photoshopFilter {
+	/separateProcess 0
+	/excludeSpots 0
+}
+/Illustrator\ version 16
+/cropareatool {
+	/CropAreaControlPalette {
+		/9PointRef 4
+	}
+}
+/artNamesAreXMLIDs 0
+/xml {
+	/UID {
+		/autoBaseNameUS [ 5
+			584d4c4944
+		]
+	}
+}
+/doubleClickToIsolate 1
+/perspectivegrid {
+	/expandAnswer 0
+}
+/artboard {
+	/transform 0
+}
+/transformPatterns 0
+/snappingTolerance 2
+/snapToPoint 1
+/directionHandleMarkType 4
+/hitTypeShapeOnPreview 1
+/ExperimentalPixelMerge 0
+/uiCanvasIsWhite 0
+/hitShapeOnPreview 1
+/useSnapomatic 1
+/enableAGMThreadedRendering 0
+/enableHyperThreadedRendering 0
+/constrain {
+	/angle 0.0
+}
+/Guide {
+	/ShowPixelGrid 1
+}
+/PeriodicCopyDelay 0.5
+/RenderingTimerEnabled 0
+/NewRenderingEnabled 1
+/enableThreadedRendering 1
+/messageIndex 0
+/shrinkToFitResizedDocs 1
+/antialias {
+	/graphic 1
+}
+/DisplayBitmapsAsAntiAliasedPixelPreview 0
+/pageTiling {
+	/imageBoundsColor (r=0x00, g=0x00, b=0x00)
+	/mediaBoundsColor (r=0x00, g=0x00, b=0x00)
+}
+/maxMRUFiles 500
+/warning {
+	/fontProblem 1
+	/colorConversion 1
+}
+/colorModel 2
+/cropMarkStyle 0
+/isRulerOriginTopLeft 1
+/printerResolution 800.0
+/doSplitPath 0
+/showPlacedImages 0
+/Grid {
+	/Color {
+		/Lite {
+			/b 0.8999999762
+			/g 0.8999999762
+			/r 0.8999999762
+		}
+		/Dark {
+			/b 0.8000000119
+			/g 0.8000000119
+			/r 0.8000000119
+		}
+	}
+	/Style 0
+	/Posn 1
+	/Vertical {
+		/Ticks 8
+		/Spacing 72.0
+	}
+	/Horizontal {
+		/Ticks 8
+		/Spacing 72.0
+	}
+}
+/undoDepth 5
+/maxUndoDepth 200
+/defaultPath [ 25
+	433a5c55736572735c5573756172696f5c4465736b746f705c
+]
+/attributePalette {
+	/currentUrlCount 0
+}
+/AI\ New\ Art\ Basic\ Appearance 1
+/blackPreservation {
+	/Export 1
+	/Onscreen 1
+}
+/usePreciseCursors 0
+/FileList {
+	/file9 [ 0
+
+	]
+	/file8 [ 0
+
+	]
+	/file7 [ 0
+
+	]
+	/file6 [ 0
+
+	]
+	/file5 [ 33
+		433a5c55736572735c5573756172696f5c4465736b746f705c6d636d322e706e
+		67
+	]
+	/file4 [ 33
+		433a5c55736572735c5573756172696f5c4465736b746f705c6d636d322e7376
+		67
+	]
+	/file3 [ 34
+		433a5c55736572735c5573756172696f5c4465736b746f705c6d636d2d322e70
+		6e67
+	]
+	/file2 [ 34
+		433a5c55736572735c5573756172696f5c4465736b746f705c6d636d2d322e73
+		7667
+	]
+	/file1 [ 42
+		433a5c55736572735c5573756172696f5c4465736b746f705c31363834353935
+		3636333732332e706e67
+	]
+	/file0 [ 42
+		433a5c55736572735c5573756172696f5c4465736b746f705c31363834353935
+		3636333732332e737667
+	]
+}
+/maxRecentFiles 10
+/unloadPlugins 1
+/layers {
+	/pastePreserveBackup 0
+	/pastePreserve 0
+}
+/Swatches {
+	/linkHtWidthInDlg 0
+	/linkHVSpacingInDlg 0
+}
+/isRulerIn4thQuad 1
+/dontUseSymbolRegPoint 0
+/scaleLineWeight 0
+/onlyTransformPatterns 0
+/linkTransform 0
+/precision {
+	/percentageNoUnits 2
+	/angleNoUnits 3
+	/fixedNoUnits 3
+	/millimetersWithUnits 3
+	/centimetersWithUnits 4
+	/inchesWithUnits 4
+	/pixelsWithUnits 3
+	/pointsWithUnits 3
+}
+/AI\ Container\ Overrides\ Object 1
+/uiOpenDocumentsAsTabs 1
+/uiBrightness 0.3300000131
+/uiPersistDrawers 1
+/showToolTips 1
+/ovalRadius 12.0
+/DefaultPaintStyle {
+	/ActiveGradient {
+		/AIColor {
+			/Kind ()
+		}
+	}
+	/ActiveColor {
+		/AIColor {
+			/CMYK {
+				/Black 0.0
+				/Yellow 0.0
+				/Magenta 0.0
+				/Cyan 0.0
+			}
+			/Kind (CMYK)
+		}
+	}
+	/PathStyle {
+		/Stroke {
+			/MiterLimit 10.0
+			/Join (MiterJoin)
+			/Cap (ButtCap)
+			/Dash {
+				/Offset 0.0
+				/Length 0
+			}
+			/Width 1.0
+			/Overprint 0
+			/AIColor {
+				/Kind ()
+			}
+		}
+		/StrokePaint 0
+		/Fill {
+			/Overprint 0
+			/AIColor {
+				/Gray {
+					/Gray 1.0
+				}
+				/Kind (Gray)
+			}
+		}
+		/FillPaint 1
+	}
+	/StrokeActive 0
+}
+/includeStrokeInBounds 0
+/showBoundingBox 1
+/BucketTool {
+	/graphicsStyleExpanded 1
+	/text {
+		/paragraphStyle 1
+		/characterStyle 1
+	}
+	/paint {
+		/strokeExpanded 1
+		/fillExpanded 1
+		/objectExpanded 1
+		/stroke {
+			/dash 1
+			/miter 1
+			/join 1
+			/cap 1
+			/weight 1
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/stroke 1
+		/fill {
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/fill 1
+		/object {
+			/transparency 1
+		}
+	}
+	/graphicsStyle 0
+	/rasterSampleSize 1
+}
+/EyedropperTool {
+	/graphicsStyleExpanded 1
+	/text {
+		/paragraphStyle 1
+		/characterStyle 1
+	}
+	/paint {
+		/strokeExpanded 1
+		/fillExpanded 1
+		/objectExpanded 1
+		/stroke {
+			/dash 1
+			/miter 1
+			/join 1
+			/cap 1
+			/weight 1
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/stroke 1
+		/fill {
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/fill 1
+		/object {
+			/transparency 1
+		}
+	}
+	/graphicsStyle 0
+	/rasterSampleSize 1
+}
+/checkRequiredPlugins 1
+/ColorHarmony {
+	/VariationTypeColorGuide 0
+	/ShowHideColorGuide 1
+	/combineTintsOnExtraction 1
+	/mapMethodApplyToAll 1
+	/mapMethodPreserveSpots 1
+	/SliderColorSpace 3
+	/ShowAdjustSliders 0
+	/ShowStorage 1
+}
+/Gradient\ Annotator\ View\ Option 1
+/unselectedAnchorMarkType 1
+/selectedAnchorMarkType 2
+/highlightAnchorOnMouseOver 1
+/snapomatic {
+	/Color {
+		/blue 0.2899976969
+		/green 1.0
+		/red 0.2899976969
+	}
+}
+/smartGuides {
+	/isEnabled 1
+	/tolerance 4
+	/anglesCount -1
+	/showAlignmentGuides 1
+	/showReadouts 1
+	/showObjectHighlighting 1
+	/showToolGuides 0
+	/showConstructionGuides 0
+	/showLabels 1
+}
+/Planar {
+	/MergeTool {
+		/Highlight {
+			/StrokeColor {
+				/Blue 20224
+				/Green 20224
+				/Red 65535
+			}
+			/StrokeColorIndex 3
+			/Stroke 1
+			/Fill 1
+		}
+		/PreviewSwatchCursor 0
+		/PaintFills 1
+		/BreakEdge 0
+		/ClosedOpenFillPaths 1
+		/Gap {
+			/Length 3.0
+			/Type 0
+			/Detect 0
+		}
+	}
+	/FaceSelect {
+		/Highlight {
+			/Stroke 4
+			/Color {
+				/blue 20224
+				/green 20224
+				/red 65535
+			}
+		}
+		/Highlight 1
+		/SelectStrokes 1
+		/SelectFills 1
+	}
+	/Paintbucket {
+		/Highlight {
+			/Stroke 4
+			/Color {
+				/blue 20224
+				/green 20224
+				/red 65535
+			}
+		}
+		/CursorSwatchPrevew 1
+		/Highlight 1
+		/PaintStrokes 0
+		/PaintFills 1
+	}
+	/Resolution 100
+	/ArtboardGapPreview 0
+	/GapDetection {
+		/PreviewOn 1
+		/GapColor {
+			/blue 20224
+			/green 20224
+			/red 65535
+			/Color {
+				/blue 20224
+				/green 20224
+				/red 65535
+			}
+		}
+		/Custom 0
+		/Size 3.0
+	}
+	/GapDetection 1
+}
+/uiScrollButtonPosition 0
+/numbersArePoints 0
+/strokeUnits 2
+/BIBCacheMaxSizeInBytes 41943040
+/BIBCacheSizeInPercentOfPhysicalRam 2.0
+/plugin {
+	/svgOptionDlg {
+		/O_UseSVGTextOnPath 0
+		/O_DisbleAutoKerning 1
+		/O_SVFontType 0
+		/O_SVGDTD 0
+		/O_DialogExpanded 0
+		/O_IncludeSlices 0
+		/O_IncludeXAP 0
+		/O_IncludePGF 0
+		/O_IncludeTemplate 0
+		/O_IncludeAdobeNameSpace 0
+		/O_RoundTrip 0
+		/O_TextOnPath 0
+		/O_GradientTolerance 0.25
+		/O_RasterResolution 72
+		/O_EmbedRasterLoc 1
+		/O_EmbedFontFormats 0
+		/O_Clip_To_Artboard 0
+		/O_Constrain_Proportions 1
+		/O_Also_Export_Compressed 0
+		/O_Export_LayerAsTitle 0
+		/O_ExportHiddenObjects 0
+		/O_Anti_Alias_Artwork 1
+		/O_Resolution_Unit 0
+		/O_Height_Unit 0
+		/O_Width_Unit 0
+	}
+	/SVGFormat {
+		/FontLocation 1
+		/FormatForFonts 0
+		/StyleType 4
+		/FileCompression 1
+		/Encoding 2
+		/fontSubsetting 1
+		/systemFont 0
+		/zoom 0
+		/Rendering 1
+		/CoordinatePrecision 3
+		/FormatForImages 1
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Texturas.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Estilos\ iluminaci\763n.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Estilos\ de\ motivos\ Vonster.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ texto.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ ne\763n.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ imagen.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ garabatear.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ art\755sticos.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ 3D.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Botones\ y\ Rollovers.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Aditivo.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Aditivo\ para\ pincel\ de\ manchas.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Tiki.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Texturas\ art\755sticas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\S\755mbolos\ 3D.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Sushi.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Retro.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Primitivo.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Pelo\ y\ pelaje.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ suciedad.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ motivo\ de\ puntos.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ majestuoso.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ florales.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Organigrama\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Naturaleza.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\M\763vil.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Moda.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Mapas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Iconos\ Web.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Herencia\ familiar.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Gr\741ficos\ de\ flujo\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Gr\741ficas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Flores.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Flechas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Elementos\ de\ logotipo.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Comunicaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Cintas\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Ciencia\ loca.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Celebraci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Botones\ y\ barras\ Web.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Pinceles\ 6D\ de\ Wacom\\Pinceles\ art\755sticos\ 6d.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Pincel\ de\ cerdas\\Biblioteca\ de\ pincel\ de\ cerdas.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Paquetes\ de\ vectores\\Paqu.\ vect.\ pinceles\ grunge.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Paquetes\ de\ vectores\\Paq.\ vect.\ pinceles\ a\ mano.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas_Est\741ndar.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas_Especial.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas\ de\ motivo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Titulares\ y\ sellos.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Separadores\ de\ texto.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Dispersi\763n.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Conjunto\ de\ pinceles\ florales\ y\ de\ espiral\ elegante.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Primitivo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Novedad.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Marcos.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_L\755neas.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_L\755neas\ discontinuas.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Geom\751trico1.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Decorativo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Tinta.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Pluma\ m\772ltiple.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Pincel.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_L\741pizTizaCarboncillo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Color\ diluido.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Caligr\741fico.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Suave.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Saturado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Oscuro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Fr\755o.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Desaturado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\C\741lido.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Claro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Brillante.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Playa.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Plantas\ decorativas.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Piedra\ y\ ladrillo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Paisaje.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Flores.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Estaciones.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\V\755deo\ y\ pel\755cula.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\RGB\ b\741sico.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Imprimir.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Flash\ Builder.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Dispositivos.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Naturaleza\\Naturaleza_Plantas\ decorativas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Naturaleza\\Naturaleza_Pieles\ de\ animales.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_Texturas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_Motivo2.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_L\755neas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Decorativo\\Motivos\ Vonster.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Decorativo\\Legado\ decorativo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Renacentista.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Prehist\763rico.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Pop\ Art.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Medieval.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Impresionista.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Barroco.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Arte\ ruso\ de\ carteles.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Antiguo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Vi\761etas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Tonosterrosos.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Tonos\ de\ piel.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Suavizados.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Radial\ simple.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Plantas\ decorativas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Piedra\ y\ ladrillo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Pasteles.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Neutros.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Metales.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Matices\ y\ gradaciones.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Madera.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Luces.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Gemas\ y\ joyas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Frutas\ y\ verduras.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Estaciones.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Espectros.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Combinaciones\ de\ color.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Cielo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Armon\755as\ de\ color.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Agua.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Verduras.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Helado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Fruta.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Caramelos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Bebidas.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\T\751trada.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Tr\755ada.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Complementario.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Complementario\ dividido.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\An\741logo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\VisiBone2.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tonos\ terrosos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tonos\ de\ piel.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tejidos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Sistema\ (Windows).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Sistema\ (Macintosh).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Neutro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Metal.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cosas\ para\ ni\761os.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Corporativo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Celebraci\763n.ase {
+		/Persistent 0
+	}
+	/Illustrator {
+		/WritingStartupFile 0
+	}
+	/NamedStylePopupPanel {
+		/ThumbnailType 0
+		/StylesView 0
+	}
+	/DontShowWarningAgain {
+		/-Vectorize\ Warning\ For\ Big\ Image\ Trace 0
+		/applyAllLinkOption 0
+		/AI9ClrMgmtNoProfInFile 0
+	}
+	/AssetManagement {
+		/vcLinkStatusUpdateCycleInTicks 120
+		/vcReplicaStatusUpdateCycleInTicks 30
+		/bridgeTalkPumpCycleInTicks 30
+	}
+	/FileClipboard {
+		/linkoptions 2
+	}
+	/WorkspacePrefix {
+		/Last\ Used\ Workspace\ Name [ 19
+			4173706563746f73206573656e6369616c6573
+		]
+	}
+	/Action {
+		/SavedSets {
+			/set-1 {
+				/version 3
+				/name [ 20
+					416363696f6e657320706f72206465666563746f
+				]
+				/isOpen 1
+				/actionCount 21
+				/action-1 {
+					/name [ 24
+						4f70616369646164203630202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 13
+							5472616e73706172656e636961
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1869635939
+							/showInPalette 1
+							/type (unit real)
+							/value 60.0000038147
+							/unit 592474723
+						}
+					}
+				}
+				/action-2 {
+					/name [ 24
+						4f70616369646164203430202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 2
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 13
+							5472616e73706172656e636961
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1869635939
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+					}
+					/event-2 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 13
+							5472616e73706172656e636961
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1836016741
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 5
+								5472616d61
+							]
+							/value 2
+						}
+					}
+				}
+				/action-3 {
+					/name [ 26
+						41706c6963617220657374696c6f20706f72206465666563746f
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_styles)
+						/localizedName [ 17
+							457374696c6f73206772c3a16669636f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1937013100
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								5b506f72206465666563746f5d
+							]
+						}
+					}
+				}
+				/action-4 {
+					/name [ 25
+						47756172646172207061726120576562202f20474946203634
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 16
+							47756172646172207061726120576562
+						]
+						/isOpen 1
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 18
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								474946383961
+							]
+							/value 1195984486
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1382376513
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 9
+								53656c656374697661
+							]
+							/value 1399616630
+						}
+						/parameter-4 {
+							/key 1098207844
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-5 {
+							/key 1313042284
+							/showInPalette -1
+							/type (integer)
+							/value 64
+						}
+						/parameter-6 {
+							/key 1148479602
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 10
+								44696666757369c3b36e
+							]
+							/value 1147564910
+						}
+						/parameter-7 {
+							/key 1148479553
+							/showInPalette -1
+							/type (integer)
+							/value 88
+						}
+						/parameter-8 {
+							/key 1466262099
+							/showInPalette -1
+							/type (integer)
+							/value 0
+						}
+						/parameter-9 {
+							/key 1282372467
+							/showInPalette -1
+							/type (integer)
+							/value 0
+						}
+						/parameter-10 {
+							/key 1416785523
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-11 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-12 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-13 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-14 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-15 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-16 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-17 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-18 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-5 {
+					/name [ 28
+						47756172646172207061726120576562202f204a5047204d6564696f
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 16
+							47756172646172207061726120576562
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 14
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 4
+								4a504547
+							]
+							/value 1246774599
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1366062201
+							/showInPalette -1
+							/type (integer)
+							/value 30
+						}
+						/parameter-4 {
+							/key 1332769901
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-5 {
+							/key 1348563827
+							/showInPalette -1
+							/type (integer)
+							/value 1
+						}
+						/parameter-6 {
+							/key 1651275122
+							/showInPalette -1
+							/type (real)
+							/value 0.0
+						}
+						/parameter-7 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-8 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-9 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-10 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-11 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-12 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-13 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-14 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-6 {
+					/name [ 25
+						47756172646172207061726120576562202f20504e47203234
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 16
+							47756172646172207061726120576562
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 11
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								504e472d3234
+							]
+							/value 1347301940
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1416785523
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-4 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-5 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-6 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-7 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-8 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-9 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-10 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-11 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-7 {
+					/name [ 24
+						53696d706c696669636172202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_simplify)
+						/localizedName [ 11
+							53696d706c696669636172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1919182693
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+						/parameter-2 {
+							/key 1634561652
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1936553064
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-4 {
+							/key 1936552044
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-8 {
+					/name [ 30
+						53696d706c69666963617220726563746f202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_simplify)
+						/localizedName [ 11
+							53696d706c696669636172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1919182693
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+						/parameter-2 {
+							/key 1634561652
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1936553064
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-4 {
+							/key 1936552044
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-9 {
+					/name [ 6
+						566f6c766572
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_revertDocument)
+						/localizedName [ 6
+							566f6c766572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 0
+					}
+				}
+				/action-10 {
+					/name [ 29
+						4c696d7069617220657374696c6f2f70696e63656c2f6d756573747261
+					]
+					/keyIndex 0
+					/colorIndex 0
+					/isOpen 0
+					/eventCount 12
+					/event-1 {
+						/useRulersIn1stQuadrant 0
+						/internalName (ai_plugin_symbol_palette)
+						/localizedName [ 9
+							53c3ad6d626f6c6f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 21
+								53656c656363696f6e6172206e6f20757361646f73
+							]
+							/value 12
+						}
+					}
+					/event-2 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_symbol_palette)
+						/localizedName [ 9
+							53c3ad6d626f6c6f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 17
+								456c696d696e61722073c3ad6d626f6c6f
+							]
+							/value 5
+						}
+					}
+					/event-3 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 7
+							446574656e6572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+					/event-4 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_styles)
+						/localizedName [ 17
+							457374696c6f73206772c3a16669636f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 21
+								53656c656363696f6e6172206e6f20757361646f73
+							]
+							/value 14
+						}
+					}
+					/event-5 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_styles)
+						/localizedName [ 17
+							457374696c6f73206772c3a16669636f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 24
+								456c696d696e617220657374696c6f206772c3a16669636f
+							]
+							/value 3
+						}
+					}
+					/event-6 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 7
+							446574656e6572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+					/event-7 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_brush)
+						/localizedName [ 6
+							50696e63656c
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 21
+								53656c656363696f6e6172206e6f20757361646f73
+							]
+							/value 8
+						}
+					}
+					/event-8 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_brush)
+						/localizedName [ 6
+							50696e63656c
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 15
+								456c696d696e61722070696e63656c
+							]
+							/value 3
+						}
+					}
+					/event-9 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 7
+							446574656e6572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+					/event-10 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_swatches)
+						/localizedName [ 8
+							4d75657374726173
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 21
+								53656c656363696f6e6172206e6f20757361646f73
+							]
+							/value 11
+						}
+					}
+					/event-11 {
+						/useRulersIn1stQuadrant 0
+						/internalName (ai_plugin_swatches)
+						/localizedName [ 8
+							4d75657374726173
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 16
+								456c696d696e6172204d756573747261
+							]
+							/value 3
+						}
+					}
+					/event-12 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 7
+							446574656e6572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-11 {
+					/name [ 24
+						43756164726f206465206469c3a16c6f676f204d6f766572
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_move)
+						/localizedName [ 5
+							4d6f766572
+						]
+						/isOpen 1
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 3
+						/parameter-1 {
+							/key 1752136302
+							/showInPalette 1
+							/type (unit real)
+							/value 66.0
+							/unit 592476268
+						}
+						/parameter-2 {
+							/key 1987339116
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 592476268
+						}
+						/parameter-3 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-12 {
+					/name [ 26
+						43756164726f206465206469c3a16c6f676f20457363616c6172
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_scale)
+						/localizedName [ 6
+							457363616c61
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 4
+						/parameter-1 {
+							/key 1970169453
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-2 {
+							/key 1818848869
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1935895653
+							/showInPalette 1
+							/type (unit real)
+							/value 120.0
+							/unit 592474723
+						}
+						/parameter-4 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-13 {
+					/name [ 24
+						43756164726f206465206469c3a16c6f676f20526f746172
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_rotate)
+						/localizedName [ 5
+							526f746172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 30.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-14 {
+					/name [ 13
+						526f746172203930206465722e
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_rotate)
+						/localizedName [ 5
+							526f746172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 90.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1684370520
+							/showInPalette 1
+							/type (unit real)
+							/value 44.8530273438
+							/unit 592476268
+						}
+						/parameter-4 {
+							/key 1684370521
+							/showInPalette 1
+							/type (unit real)
+							/value 54.4116210938
+							/unit 592476268
+						}
+					}
+				}
+				/action-15 {
+					/name [ 31
+						43756164726f206465206469c3a16c6f676f20446973746f7273696f6e6172
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_shear)
+						/localizedName [ 12
+							446973746f7273696f6e6172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 3
+						/parameter-1 {
+							/key 1936220519
+							/showInPalette 1
+							/type (unit real)
+							/value 45.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-16 {
+					/name [ 24
+						5265666c656a617220686f72697a6f6e74616c6d656e7465
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_reflect)
+						/localizedName [ 8
+							5265666c656a6172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1684370520
+							/showInPalette 1
+							/type (unit real)
+							/value -13.22265625
+							/unit 592476268
+						}
+						/parameter-4 {
+							/key 1684370521
+							/showInPalette 1
+							/type (unit real)
+							/value -2.6201171875
+							/unit 592476268
+						}
+					}
+				}
+				/action-17 {
+					/name [ 21
+						556e696669636172202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 11
+							42757363617472617a6f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 7
+								41c3b161646972
+							]
+							/value 0
+						}
+					}
+				}
+				/action-18 {
+					/name [ 27
+						496e74657273656363696f6e6172202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 11
+							42757363617472617a6f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 10
+								496e7465727365636172
+							]
+							/value 1
+						}
+					}
+				}
+				/action-19 {
+					/name [ 20
+						4578636c756972202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 11
+							42757363617472617a6f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 7
+								4578636c756972
+							]
+							/value 2
+						}
+					}
+				}
+				/action-20 {
+					/name [ 26
+						4d656e6f732066726f6e74616c202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 11
+							42757363617472617a6f73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								526573746172
+							]
+							/value 3
+						}
+					}
+				}
+				/action-21 {
+					/name [ 23
+						5261737472696c6c6172202873656c65636369c3b36e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 0
+						/internalName (ai_plugin_rasterize)
+						/localizedName [ 10
+							526173746572697a6172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 8
+						/parameter-1 {
+							/key 1668246642
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 3
+								524742
+							]
+							/value 0
+						}
+						/parameter-2 {
+							/key 1685088558
+							/showInPalette -1
+							/type (integer)
+							/value 150
+						}
+						/parameter-3 {
+							/key 1651205988
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								426c616e636f
+							]
+							/value 0
+						}
+						/parameter-4 {
+							/key 1954115685
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 8
+								50657266696c6172
+							]
+							/value 0
+						}
+						/parameter-5 {
+							/key 1634494763
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 7
+								4e696e67756e6f
+							]
+							/value 0
+						}
+						/parameter-6 {
+							/key 1835103083
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-7 {
+							/key 1886613620
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-8 {
+							/key 1885430884
+							/showInPalette -1
+							/type (unit real)
+							/value 0.0
+							/unit 592476268
+						}
+					}
+				}
+			}
+		}
+		/SavedSetCount 1
+	}
+	/AdobeSwatchPopup_Stroke {
+		/GroupsListStyle 0
+		/PatternListStyle 0
+		/GradientListStyle 0
+		/ColorListStyle 0
+		/ShowAllListStyle 0
+		/VisibleKind 0
+		/CurrentListStyle 0
+		/ShowFindField 0
+	}
+	/AdobeSwatchPopup_Fill {
+		/GroupsListStyle 0
+		/PatternListStyle 0
+		/GradientListStyle 0
+		/ColorListStyle 0
+		/ShowAllListStyle 0
+		/VisibleKind 0
+		/CurrentListStyle 0
+		/ShowFindField 0
+	}
+	/AdobeSwatch_ {
+		/GroupsListStyle 0
+		/PatternListStyle 0
+		/GradientListStyle 0
+		/ColorListStyle 0
+		/ShowAllListStyle 0
+		/VisibleKind 0
+		/CurrentListStyle 0
+		/ShowFindField 0
+	}
+	/AdobeBrush {
+		/ThumbnailView 1
+	}
+	/Transform {
+		/AnchorPoint 4
+	}
+	/Symbols {
+		/VisibleKind 0
+	}
+	/Navigator {
+		/Color {
+			/blue 0.3100000024
+			/green 0.3100000024
+			/red 1.0
+		}
+		/Artboard\ Mode 1
+		/DontDrawDash 1
+		/Greeking 72.0
+	}
+	/KBSCShortcutFile {
+		/IsPreset 1
+		/FileName [ 34
+			56616c6f72657320706f72206465666563746f20646520496c6c757374726174
+			6f72
+		]
+	}
+	/NamedStyle {
+		/ThumbnailType 0
+		/StylesView 0
+	}
+	/Align {
+		/StickyAlignOption 0
+	}
+	/ICCColorMgmt3.0 {
+		/settingsFile [ 99
+			433a5c50726f6772616d2046696c65732028783836295c436f6d6d6f6e204669
+			6c65735c41646f62655c436f6c6f725c53657474696e67735c45787472615365
+			7474696e67735c4575726f70652047656e6572616c20507572706f736520332e
+			637366
+		]
+		/settingsFileValid 0
+		/useAdvanced 0
+		/useAI6 0
+	}
+	/PDFImport {
+		/PageNumber 1
+		/CropTo 4
+	}
+	/PDFExport {
+		/AI12PDF_RegistryName [ 0
+
+		]
+		/AI12PDF_OutputConditionIdentifier [ 0
+
+		]
+		/AI12PDF_OutputCondition [ 0
+
+		]
+		/AI12PDF_OutputIntentProfileName [ 0
+
+		]
+		/AI12PDF_DestinationName [ 0
+
+		]
+		/AI12PDF_Description [ 0
+
+		]
+		/AI12PDF_Trapped 0
+		/AI12PDF_ColorConversionPolicy 1
+		/AI12PDF_OutputIntentProfileNamePolicy 1
+		/AI12PDF_DestinationPolicy 1
+		/AI12PDF_ProfileInclusionPolicy 1
+		/AI12PDF_Standard 1
+		/AI12PDF_DontShowSecurityWarning 0
+		/AI11PDF_FlatteningPresetPrinterResolution 800.0
+		/AI11PDF_FlatteningPresetOutlineText 0
+		/AI11PDF_FlatteningPresetOutlineStroke 1
+		/AI16PDF_FlatteningPresetAntiAlias 0
+		/AI11PDF_FlatteningPresetClipComplexRegion 1
+		/AI11PDF_FlatteningPresetVectorBalance 75
+		/AI11PDF_FlatteningPresetMinResolution 150.0
+		/AI11PDF_FlatteningPresetMaxResolution 300.0
+		/AI11PDF_FlatteningPresetName [ 18
+			5b416c7461207265736f6c756369c3b36e5d
+		]
+		/AI11PDF_FlattenTransparency 0
+		/AI11PDF_PreserveAcrobatLayers 1
+		/AI11PDF_Overprint 0
+		/AI11PDF_SubsetFontRatio 0
+		/AI14PDF_DocBleed 1
+		/AI11PDF_BleedBottom 0.0
+		/AI11PDF_BleedTop 0.0
+		/AI11PDF_BleedRight 0.0
+		/AI11PDF_BleedLeft 0.0
+		/AI11PDF_BleedLink 1
+		/AI11PDF_OffsetFromArtworkBottom 0.0
+		/AI11PDF_OffsetFromArtworkTop 0.0
+		/AI11PDF_OffsetFromArtworkRight 0.0
+		/AI11PDF_OffsetFromArtworkLeft 0.0
+		/AI11PDF_TrimMarkWeight 0.125
+		/AI11PDF_PrinterMarkType 0
+		/AI11PDF_PageInfo 0
+		/AI11PDF_ColorBars 0
+		/AI11PDF_RegMarks 0
+		/AI11PDF_TrimMarks 0
+		/AI11PDF_CompressArt 1
+		/AI11PDF_MonoDownsampleImageAbove 450
+		/AI11PDF_MonochromeDownsampleResolution 300
+		/AI11PDF_MonochromeDownsampleKind 1
+		/AI11PDF_MonochromeCompressionKind 1
+		/AI11PDF_GrayTileSize 256
+		/AI11PDF_GrayDownsampleImageAbove 450
+		/AI11PDF_GrayDownsampleResolution 300
+		/AI11PDF_GrayDownsampleKind 1
+		/AI11PDF_GrayCompressionQuality 3
+		/AI11PDF_GrayCompressionKind 1
+		/AI11PDF_ColorTileSize 256
+		/AI11PDF_ColorDownsampleImageAbove 450
+		/AI11PDF_ColorDownsampleResolution 300
+		/AI11PDF_ColorDownsampleKind 1
+		/AI11PDF_ColorCompressionQuality 3
+		/AI11PDF_ColorCompressionKind 1
+		/AI11PDF_FastWebView 0
+		/AI11PDF_ViewPDFFile 0
+		/AI11PDF_GenerateThumbnails 1
+		/AI11PDF_PreserveIllustratorEditingCapabilities 1
+		/AI12PDF_UsePrintTiling 0
+		/AI11PDF_Compatibility 3
+		/OptionSetName [ 34
+			5b56616c6f7220706f72206465666563746f20646520496c6c7573747261746f
+			725d
+		]
+		/OptionSet 2
+		/FlattenerListEntryExpanded 0
+		/MonoImageListEntryExpanded 0
+		/GrayImageListEntryExpanded 0
+		/ColorImageListEntryExpanded 0
+		/SecurityListEntryExpanded 0
+		/AdvancedListEntryExpanded 0
+		/OutputPDFXExpanded 0
+		/OutputColorExpanded 0
+		/OutputListEntryExpanded 0
+		/MarksBleedsListEntryExpanded 0
+		/CompressionListEntryExpanded 0
+		/GeneralListEntryExpanded 0
+		/DescriptionListEntryExpanded 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Texturas.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Estilos\ iluminaci\763n.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Estilos\ de\ motivos\ Vonster.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ texto.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ ne\763n.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ imagen.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ garabatear.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ art\755sticos.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ 3D.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Botones\ y\ Rollovers.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Aditivo.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Aditivo\ para\ pincel\ de\ manchas.ai {
+		/ThumbnailType 0
+		/StylesView 0
+		/Persistent 0
+	}
+	/PG {
+		/PlaneSwitcherPosition 0
+		/PlaneSwitcherVisible 1
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Tiki.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Texturas\ art\755sticas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\S\755mbolos\ 3D.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Sushi.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Retro.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Primitivo.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Pelo\ y\ pelaje.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ suciedad.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ motivo\ de\ puntos.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ majestuoso.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ florales.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Organigrama\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Naturaleza.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\M\763vil.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Moda.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Mapas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Iconos\ Web.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Herencia\ familiar.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Gr\741ficos\ de\ flujo\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Gr\741ficas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Flores.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Flechas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Elementos\ de\ logotipo.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Comunicaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Cintas\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Ciencia\ loca.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Celebraci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Botones\ y\ barras\ Web.ai {
+		/Persistent 0
+	}
+	/objectExpand {
+		/gradientSteps 255
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Pinceles\ 6D\ de\ Wacom\\Pinceles\ art\755sticos\ 6d.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Pincel\ de\ cerdas\\Biblioteca\ de\ pincel\ de\ cerdas.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Paquetes\ de\ vectores\\Paqu.\ vect.\ pinceles\ grunge.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Paquetes\ de\ vectores\\Paq.\ vect.\ pinceles\ a\ mano.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas_Est\741ndar.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas_Especial.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas\ de\ motivo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Titulares\ y\ sellos.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Separadores\ de\ texto.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Dispersi\763n.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Conjunto\ de\ pinceles\ florales\ y\ de\ espiral\ elegante.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Primitivo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Novedad.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Marcos.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_L\755neas.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_L\755neas\ discontinuas.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Geom\751trico1.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Decorativo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Tinta.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Pluma\ m\772ltiple.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Pincel.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_L\741pizTizaCarboncillo.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Color\ diluido.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Caligr\741fico.ai {
+		/ThumbnailView 1
+		/Persistent 0
+	}
+	/EraserTool {
+		/angleVariation 0.0
+		/angle 0.0
+		/roundnessVariation 0.0
+		/roundness 100.0
+		/diameterVariation 0.0
+		/diameter 10.0
+		/angleRelativeTo 0
+		/angleDependsOn 0
+		/roundnessDependsOn 0
+		/diameterDependsOn 0
+		/angleRnd 0.0
+		/roundnessRnd 0.0
+		/diameterRnd 0.0
+	}
+	/BlobBrushTool {
+		/angleVariation 0.0
+		/angle 0.0
+		/roundnessVariation 0.0
+		/roundness 100.0
+		/diameterVariation 0.0
+		/diameter 10.0
+		/angleRelativeTo 0
+		/angleDependsOn 0
+		/roundnessDependsOn 0
+		/diameterDependsOn 0
+		/angleRnd 0.0
+		/roundnessRnd 0.0
+		/diameterRnd 0.0
+	}
+	/CropAreaPrefix {
+		/MoveContentWithArtbrd 1
+		/RealTimeFading 1
+		/ShowFading 1
+	}
+	/dBrush {
+		/CountBeforeSavePrint 1
+		/MousePosePressure 0.5
+		/MousePoseTwist 0.0
+		/MousePoseAltitude 45.0
+		/MousePoseAzimuth 45.0
+		/MousePoseFollowPath 1
+		/UseSampledStepping 1
+		/ShowSteppingTrajectories 0
+		/PhysicsThreads 0
+		/UseODEPhysics 0
+		/ShowPoseAnnotation 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Suave.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Saturado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Oscuro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Fr\755o.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Desaturado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\C\741lido.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Claro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Brillante.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Playa.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Plantas\ decorativas.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Piedra\ y\ ladrillo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Paisaje.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Flores.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Estaciones.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\V\755deo\ y\ pel\755cula.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\RGB\ b\741sico.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Imprimir.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Flash\ Builder.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Dispositivos.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Naturaleza\\Naturaleza_Plantas\ decorativas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Naturaleza\\Naturaleza_Pieles\ de\ animales.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_Texturas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_Motivo2.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_L\755neas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Decorativo\\Motivos\ Vonster.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Decorativo\\Legado\ decorativo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Renacentista.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Prehist\763rico.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Pop\ Art.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Medieval.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Impresionista.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Barroco.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Arte\ ruso\ de\ carteles.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Antiguo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Vi\761etas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Tonosterrosos.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Tonos\ de\ piel.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Suavizados.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Radial\ simple.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Plantas\ decorativas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Piedra\ y\ ladrillo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Pasteles.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Neutros.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Metales.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Matices\ y\ gradaciones.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Madera.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Luces.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Gemas\ y\ joyas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Frutas\ y\ verduras.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Estaciones.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Espectros.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Combinaciones\ de\ color.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Cielo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Armon\755as\ de\ color.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Agua.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Verduras.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Helado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Fruta.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Caramelos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Bebidas.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\T\751trada.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Tr\755ada.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Complementario.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Complementario\ dividido.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\An\741logo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\VisiBone2.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tonos\ terrosos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tonos\ de\ piel.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tejidos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Sistema\ (Windows).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Sistema\ (Macintosh).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Neutro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Metal.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cosas\ para\ ni\761os.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Corporativo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Celebraci\763n.ase {
+		/Persistent 0
+	}
+	/AdobeSlicingPlugin {
+		/feedback {
+			/blue 19005
+			/green 19005
+			/red 65535
+		}
+		/showSliceNumbers 1
+		/lockSlices 0
+		/divideVerticallyPixelCount 0
+		/divideVerticallyCount 1
+		/divideHorizontallyPixelCount 0
+		/divideHorizontallyCount 1
+		/dividePreview 0
+		/divideEvenVertically 1
+		/divideEvenHorizontally 1
+		/divideVertically 1
+		/divideHorizontally 1
+		/addSlicingTools 1
+	}
+	/Rasterize {
+		/Defaults {
+			/Padding 36.0
+			/Mask 0
+			/Spot 1
+			/Alias 0
+			/DPI 72
+			/Type 4
+		}
+		/rasterizeMemory 20
+	}
+	/BRSSmootherTool {
+		/smoothness 25.0
+		/fidelity 2.5
+	}
+	/BRSPencilTool {
+		/filling 0
+		/edit_selection 1
+		/select_results 1
+		/smoothness 0.0
+		/fidelity 2.5
+	}
+	/BRSTool30Mar9816Build {
+		/slow_pointer_speed 0
+		/select_results 1
+		/editing_distance 12.0
+		/corner_angle 120.0
+		/noise_filter_degree 4
+	}
+	/Debug {
+		/timeActions 0
+		/useDebugMenu 0
+	}
+	/AIProxy_CacheFile_MetaData {
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg < 16
+			e81200008681afd3f8668fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb < 16
+			0cc000007981afd342758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb < 16
+			846d00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb < 16
+			fa5700007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb < 16
+			437e00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb < 16
+			2f7e00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb < 16
+			9a1d00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb < 16
+			f01400007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb < 16
+			dc1400007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb < 16
+			2e1d00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb < 16
+			2a7a00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb < 16
+			1a7a00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb < 16
+			ca0c01007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb < 16
+			b20c01007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb < 16
+			7b0500007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb < 16
+			040800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb < 16
+			260800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb < 16
+			100800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb < 16
+			484a00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb < 16
+			447400007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb < 16
+			c01b00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg < 16
+			0a1400008681afd3f8668fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\Illustrator\ CS6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg < 16
+			e8120000421fd3d1f8668fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb < 16
+			0cc00000351fd3d142758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb < 16
+			846d0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb < 16
+			fa570000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb < 16
+			437e0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb < 16
+			2f7e0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb < 16
+			9a1d0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb < 16
+			f0140000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb < 16
+			dc140000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb < 16
+			2e1d0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb < 16
+			2a7a0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb < 16
+			1a7a0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb < 16
+			ca0c0100351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb < 16
+			b20c0100351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb < 16
+			7b050000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb < 16
+			16080000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb < 16
+			04080000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb < 16
+			16080000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb < 16
+			26080000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb < 16
+			16080000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb < 16
+			10080000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb < 16
+			16080000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb < 16
+			484a0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb < 16
+			44740000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb < 16
+			c01b0000351fd3d140758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb 16
+		/AIProxy_dataC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg < 16
+			0a140000421fd3d1f8668fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\ (x86)\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg 16
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg < 16
+			0a1400008681afd3f8668fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb < 16
+			c01b00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb < 16
+			447400007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb < 16
+			484a00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb < 16
+			100800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb < 16
+			260800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb < 16
+			040800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb < 16
+			160800007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb < 16
+			7b0500007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb < 16
+			b20c01007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb < 16
+			ca0c01007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb < 16
+			1a7a00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb < 16
+			2a7a00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb < 16
+			2e1d00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb < 16
+			dc1400007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb < 16
+			f01400007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb < 16
+			9a1d00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb < 16
+			2f7e00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb < 16
+			437e00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb < 16
+			fa5700007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb < 16
+			846d00007981afd340758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb < 16
+			0cc000007981afd342758fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg 16
+		/AIProxy_dataC:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg < 16
+			e81200008681afd3f8668fcb00000000
+		>
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Celebraci\763n.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Corporativo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cosas\ para\ ni\761os.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Metal.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Neutro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Sistema\ (Macintosh).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Sistema\ (Windows).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tejidos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tonos\ de\ piel.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Tonos\ terrosos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\VisiBone2.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\An\741logo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Complementario\ dividido.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Complementario.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\Tr\755ada.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Cient\755fico\\T\751trada.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Bebidas.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Caramelos.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Fruta.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Helado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Comidas\\Verduras.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Agua.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Armon\755as\ de\ color.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Cielo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Combinaciones\ de\ color.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Espectros.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Estaciones.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Frutas\ y\ verduras.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Gemas\ y\ joyas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Luces.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Madera.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Matices\ y\ gradaciones.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Metales.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Neutros.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Pasteles.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Piedra\ y\ ladrillo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Plantas\ decorativas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Radial\ simple.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Suavizados.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Tonos\ de\ piel.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Tonosterrosos.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Degradados\\Vi\761etas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Antiguo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Arte\ ruso\ de\ carteles.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Barroco.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Impresionista.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Medieval.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Pop\ Art.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Prehist\763rico.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Historia\ del\ arte\\Renacentista.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\ANPA\ Color.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\DIC\ Color\ Guide.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\FOCOLTONE.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ E.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ K.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ N.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\HKS\ Z.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ CMYK\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Color\ Bridge\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Metallic\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Premium\ Metallics\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\PANTONE+\ Solid\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ 94\ COLOR\ FINDER.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TOYO\ COLOR\ FINDER.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Libros\ de\ color\\TRUMATCH.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Decorativo\\Legado\ decorativo.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Decorativo\\Motivos\ Vonster.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_L\755neas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_Motivo2.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Gr\741ficos\ b\741sicos\\Gr\741ficos\ b\741sicos_Texturas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Naturaleza\\Naturaleza_Pieles\ de\ animales.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Motivos\\Naturaleza\\Naturaleza_Plantas\ decorativas.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Dispositivos.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Flash\ Builder.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Imprimir.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\RGB\ b\741sico.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\V\755deo\ y\ pel\755cula.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Muestras\ por\ defecto\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Estaciones.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Flores.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Paisaje.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Piedra\ y\ ladrillo.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Plantas\ decorativas.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Naturaleza\\Playa.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Brillante.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Claro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\C\741lido.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Desaturado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Fr\755o.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Oscuro.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Saturado.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Muestras\\Propiedades\ de\ color\\Suave.ase {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Caligr\741fico.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Color\ diluido.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_L\741pizTizaCarboncillo.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Pincel.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Pluma\ m\772ltiple.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Art\755stico\\Art\755stico_Tinta.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Decorativo.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Geom\751trico1.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_L\755neas\ discontinuas.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_L\755neas.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Marcos.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Novedad.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Bordes\\Bordes_Primitivo.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Conjunto\ de\ pinceles\ florales\ y\ de\ espiral\ elegante.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Dispersi\763n.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Separadores\ de\ texto.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Decorativo\\Decorativo_Titulares\ y\ sellos.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas\ de\ motivo.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas_Especial.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Flechas\\Flechas_Est\741ndar.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Paquetes\ de\ vectores\\Paq.\ vect.\ pinceles\ a\ mano.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Paquetes\ de\ vectores\\Paqu.\ vect.\ pinceles\ grunge.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Pincel\ de\ cerdas\\Biblioteca\ de\ pincel\ de\ cerdas.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Pinceles\\Pinceles\ 6D\ de\ Wacom\\Pinceles\ art\755sticos\ 6d.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Botones\ y\ barras\ Web.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Celebraci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Ciencia\ loca.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Cintas\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Comunicaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Elementos\ de\ logotipo.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Flechas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Flores.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Gr\741ficas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Gr\741ficos\ de\ flujo\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Herencia\ familiar.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Iconos\ Web.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Mapas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Moda.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\M\763vil.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Naturaleza.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Organigrama\ iluminaci\763n.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ florales.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ majestuoso.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ motivo\ de\ puntos.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Paquete\ de\ vectores\ suciedad.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Pelo\ y\ pelaje.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Primitivo.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Retro.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Sushi.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\S\755mbolos\ 3D.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Texturas\ art\755sticas.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\S\755mbolos\\Tiki.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Aditivo\ para\ pincel\ de\ manchas.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Aditivo.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Botones\ y\ Rollovers.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ 3D.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ art\755sticos.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ garabatear.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ imagen.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ ne\763n.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Efectos\ de\ texto.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Estilos\ de\ motivos\ Vonster.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Estilos\ iluminaci\763n.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\IllustratorCs6\\App\\Illustrator\\Presets\\es_ES\\Estilos\ gr\741ficos\\Texturas.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+}
+/pluginCacheCheckCreateDate 1842832668
+/pluginCacheCheckModDate -476076477
+/loadAdditionalPlugins 0
+/startup {
+	/showSplashScreen 1
+}
+/memory {
+	/memoryPercentage 0
+	/physicalRAMSize 3581
+	/usePhysicalRAMSize 0
+}
+/rulerType 2
+/startupProfiles 0
+/AI\ WorldReadiness\ Dict\ Key 0
+/EnableInternalMemoryPool 0
+/Snapomatic {
+	/GeometryTranslate {
+		/down (LM v i o)
+		/up (A v i o)
+	}
+	/Eyebucket {
+		/down (A v o f)
+		/up (A v o f)
+	}
+	/Shear {
+		/down (ATFGPLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Reflect {
+		/down (ATFGPLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Rotate {
+		/down (ATFGPLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Scale {
+		/down (ATFGPBLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Translate {
+		/down (ATFGPBLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Pen {
+		/down (ATFGP v i o)
+		/up (ATFGPLMSU v i o)
+	}
+	/SquareCircle {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Scissor {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Guide {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Ruler {
+		/down (ATFGPM v i o)
+		/up (ATFGP v i o)
+	}
+	/Page {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Zoom {
+		/down ()
+		/up ()
+	}
+	/RangeSelect {
+		/down ()
+		/up ()
+	}
+	/Select {
+		/down (ATFGPLM v i o f)
+		/up (A v o f)
+	}
+	/Blend {
+		/down (A v)
+		/up (A v)
+	}
+}
+/editableGuides 1
+/useProcessorSpecificCode 1
+/hyphenation {
+	/language 7
+}
+/showAsianTextOptions 0
+/text {
+	/GreekingDisabled 1
+	/kernIncrement 20
+	/riseIncrement 2.0
+	/sizeIncrement 2.0
+	/doNonLatinInlineInput 1
+	/doFontLocking 1
+	/greekingThreshold 6.0
+	/recentFontMenu {
+		/showNEntries 5
+	}
+	/groupTypeMenuByLanguage 1
+	/fontMenu {
+		/faceSizeMultiplier 1.0
+		/showSubMenusInFace 0
+		/showInFace 1
+		/menuNameLimit 35
+	}
+	/asianunits 2
+	/units 2
+	/faceSize 12.0
+	/defaultFaceNames {
+		/Hebrew {
+			/1 (MyriadHebrew-Regular)
+		}
+		/Arabic {
+			/1 (AdobeArabic-Regular)
+		}
+		/Baltic {
+			/1 (MyriadPro-Regular)
+		}
+		/Greek {
+			/1 (MyriadPro-Regular)
+		}
+		/Turkish {
+			/1 (MyriadPro-Regular)
+		}
+		/EastEuropean {
+			/1 (MyriadPro-Regular)
+			/2 (ArialMT.WinEastEuropean)
+		}
+		/Cyrillic {
+			/1 (MyriadPro-Regular)
+			/2 (ArialMT.WinCyrillic)
+		}
+		/SimplifiedChinese {
+			/1 (AdobeSongStd-Light)
+		}
+		/Korean {
+			/1 (AdobeMyungjoStd-Medium)
+		}
+		/TraditionalChinese {
+			/1 (AdobeMingStd-Light)
+		}
+		/Japanese {
+			/5 (MS-Mincho)
+			/4 (Ryumin-Light)
+			/3 (HeiseiMincho-W3)
+			/2 (HeiseiMin-W3)
+			/1 (KozGoPr6N-Regular)
+		}
+		/Roman {
+			/1 (MyriadPro-Regular)
+			/2 (Myriad)
+			/3 (Arial)
+		}
+	}
+	/useEnglishFontNames 0
+	/debugFontMenu {
+		/writeDebugFile 0
+		/lieAboutNativeScript 0
+	}
+}
+/changed 0
